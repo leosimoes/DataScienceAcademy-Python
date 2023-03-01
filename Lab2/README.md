@@ -13,3 +13,7 @@ Implementação de uma calculadora de números inteiros.
 ## Execução
 
 Execute o arquivo MainCalculadora.py no terminal para rodar o programa.
+
+## Diagrama de Classes
+
+![UML - Classe Caculadora e TestCalculadora](Diagrama-Classe-Calculadora.png)
