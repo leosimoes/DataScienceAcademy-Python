@@ -17,4 +17,4 @@ Obs.: Os três arquivos mencionados anteriormente devem estar no mesmo diretóri
 
 
 ## Diagrama de Classe
-![printDashboard](https://raw.githubusercontent.com/leosimoes/DataScienceAcademy-Python/master/Lab4/Diagrama-Classe-Hangman.PNG)
+![UML - Classe Hangman](Diagrama-Classe-Hangman.PNG)
