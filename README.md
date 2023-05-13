@@ -6,6 +6,7 @@ Atividades do curso Fundamentos de Linguagem Python Para Análise de Dados e Dat
 - Exercício - TensorFlow
 - Lab 1 - Conhecendo a Linguagem Python com ChatGPT
 - Lab 2 - Calculadora em Linguagem Python
+- Lab 3 - Trabalhando com Expressões Regulares em Python com ChatGPT
 - Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos
 - Projeto 1 - Desenvolvimento de Game em Linguagem Python
 
