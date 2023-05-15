@@ -8,16 +8,17 @@ Uma série temporal foi analisada e usada para criar um modelo de suavização e
 ## Gráficos
 
 Valores de vendas:
+
 ![Serie-Valores](SerieTemporal-ValoresVendas.png)
 
 
-
 Componentes da série:
+
 ![Serie-Componentes](SerieTemporal-Componentes.png)
 
 
-
 Modelo de suavização exponencial para a série:
+
 ![Serie-Modelo](SerieTemporal-Modelo.png)
 
 ## Referências
