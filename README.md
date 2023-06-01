@@ -3,6 +3,7 @@
 Atividades do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) da DataScienceAcademy.
 
 ## Projetos
+- Exercício - Scikit-Learn
 - Exercício - Séries Temporais
 - Exercício - Statsmodels
 - Exercício - TensorFlow
